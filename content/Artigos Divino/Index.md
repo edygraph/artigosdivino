@@ -4,8 +4,7 @@ longform:
   title: Artigos Divino
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - Jesus
+  scenes: []
   sceneTemplate: content/Política e Privacidade.md
   ignoredFiles: []
 ---
