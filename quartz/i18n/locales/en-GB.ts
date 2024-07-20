@@ -23,7 +23,7 @@ export default {
     },
     backlinks: {
       title: "Backlinks",
-      noBacklinksFound: "No backlinks found",
+      noBacklinksFound: "Nenhum backlink encontrado",
     },
     themeToggle: {
       lightMode: "Light mode",
