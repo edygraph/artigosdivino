@@ -1,5 +1,5 @@
 ---
-title: "Table of Contents"
+title: "Índice"
 tags:
   - component
   - feature/transformer
