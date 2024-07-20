@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       typography: {
         header: "DM Serif Display",
         body: "Bricolage Grotesque",
-        code: "IBM Plex Mono",
+        code: "Mrs Saint Delafield",
       },
       colors: {
         lightMode: {
