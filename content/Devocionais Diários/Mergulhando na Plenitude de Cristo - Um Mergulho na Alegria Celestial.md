@@ -1,6 +1,6 @@
 ---
 title: "Mergulhando na Plenitude de Cristo: Um Mergulho na Alegria Celestial"
-draft: false
+"draft O qual é o penhor da nossa herança, para redenção da possessão adquirida, para louvor da sua glória.": true
 tags:
 ---
  ### A Antecipação do Céu: Um Banquete de Regozijo e Consolação
