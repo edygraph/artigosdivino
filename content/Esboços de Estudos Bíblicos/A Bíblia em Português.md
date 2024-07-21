@@ -2,6 +2,7 @@
 title: A Bíblia em Português
 draft: false
 tags:
+  - ABíbliaemPortuguês
 ---
 
  ##A Bíblia em Português: Origens e Primeiras Traduções
