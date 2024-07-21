@@ -201,8 +201,7 @@ Uma comissão constituída de eruditos em grego, hebraico, aramaico e português
 - **Bíblia de Jerusalém (1981)**: Traduzida pela Escola Bíblica de Jerusalém (padres dominicanos) e editada no Brasil por Edições Paulinas, com notas.
 - **Edição Integral da Bíblia**: Trabalho de diversos tradutores sob a coordenação de Ludovico Garmus, editado pela Editora Vozes e pelo Círculo do Livro, também com notas.
 
-Espero que esta formatação ajude a tornar o conteúdo mais claro e organizado! Se precisar de mais alguma coisa, estou à disposição.
-
 
 [[66 Apo 22]]
 
+[[37 Age 2]]
