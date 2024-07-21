@@ -20,9 +20,9 @@ Estas gravuras ilustram o método que Deus utilizou para a revelação e publica
 |5ª Promulgação|Todas as Escrituras|Romanos 15:4|
 |6ª Promulgação|Escrita no Coração|Hebreus 8:10|
 |7ª Promulgação|Os Cristãos como Cartas Vivas|2 Coríntios 3:2-3|
-### 1ª Promulgação: Escrita na Natureza (Salmos 19:1)
+### 1ª Promulgação: Escrita na Natureza (Salmos 19:1) 
 
-A primeira promulgação da Lei Divina é encontrada na ***própria criação***. O ***Salmo 19:1*** declara: ***“Os céus proclamam a glória de Deus, e o firmamento anuncia a obra das suas mãos.”*** A ***natureza*** é um ***testemunho constante e universal da existência e do poder de Deus***. Desde as vastas galáxias até as intricadas estruturas das células vivas, cada elemento da criação revela aspectos do caráter divino. A ordem, a beleza e a complexidade do universo são evidências da sabedoria e do poder de Deus, tornando a natureza uma “Bíblia aberta” que todos podem ler.
+A primeira promulgação da Lei Divina é encontrada na ***própria criação***. O ***Salmo 19:1*** declara: ***“Os céus proclamam a glória de Deus, e o firmamento anuncia a obra das suas mãos.”*** A ***natureza*** é um ***testemunho constante e universal da existência e do poder de Deus***. Desde as vastas galáxias até as intricadas estruturas das células vivas, cada elemento da criação revela aspectos do caráter divino. A ordem, a beleza e a complexidade do universo são evidências da sabedoria e do poder de Deus, tornando a natureza uma “Bíblia aberta” que todos podem ler. [[19 Sal 19]]
 
 ### 2ª Promulgação: Escrita na Consciência (Romanos 2:15)
 
