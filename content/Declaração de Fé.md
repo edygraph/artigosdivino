@@ -3,7 +3,10 @@ title: Declaração de Fé
 draft: false
 tags:
 ---
- ## Declaração de Fé Artigos Divino: Uma Jornada Através da Revelação Divina
+ 
+ ## Declaração de Fé: Uma Jornada Através da Revelação Divina
+ 
+Aprofunde-se na revelação divina com este guia espiritual completo. Conheça os insights que transformarão sua compreensão sobre a espiritualidade.
 
 ### Mergulhando nas Profundezas da Escritura:
 
@@ -39,4 +42,7 @@ O dia do juízo final se aproxima, um momento em que a justiça divina prevalece
 
 ### A Igreja: Corpo de Cristo, Comunhão e Testemunho:
 
-A igreja, composta por todos os crentes em Jesus Cristo, representa o corpo universal de Cristo na Terra. Unida pela fé e pelo amor
+A igreja, composta por todos os crentes em Jesus Cristo> [!bible]+ [undefined - ALMEIDA](https://www.biblegateway.com/passage/?search=Ephesians+1:14&version=almeida)
+
+ %% #Ephesians %%
+, representa o corpo universal de Cristo na Terra. Unida pela fé e pelo amor
