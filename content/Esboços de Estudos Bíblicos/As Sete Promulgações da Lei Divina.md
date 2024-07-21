@@ -34,7 +34,7 @@ A terceira promulgação é a lei escrita em ***tábuas de pedra***, dada a Mois
 
 ### 4ª Promulgação: Cristo, a Palavra Vivente (João 1:14)
 
-A quarta promulgação é a ***encarnação de Jesus Cristo***, ***a Palavra vivente***. ***João 1:14*** declara: ***“E o Verbo se fez carne, e habitou entre nós, cheio de graça e de verdade, e vimos a sua glória, glória como do unigênito do Pai.”*** Jesus é a revelação perfeita e completa da lei de Deus, não apenas em palavras, mas em ações e caráter. Sua vida sem pecado, seus ensinamentos e seu sacrifício na cruz exemplificam a plenitude da lei divina, mostrando-nos como viver de acordo com a vontade de Deus.
+A quarta promulgação é a ***encarnação de Jesus Cristo***, ***a Palavra vivente***. ***João 1:14*** declara: ***“E o Verbo se fez carne, e habitou entre nós, cheio de graça e de verdade, e vimos a sua glória, glória como do unigênito do Pai.”*** Jesus é a revelação perfeita e completa da lei de Deus, não apenas em palavras, mas em ações e caráter. ***Sua vida sem pecado***, ***seus ensinamentos e seu sacrifício na cruz exemplificam a plenitude da lei divina, mostrando-nos como viver de acordo com a vontade de Deus.***
 
 ### 5ª Promulgação: Todas as Escrituras (Romanos 15:4)
 
