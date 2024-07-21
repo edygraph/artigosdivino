@@ -4,8 +4,6 @@ draft: false
 tags:
   - ABíbliaemPortuguês
 ---
-
-
 ## A Bíblia em Português: Origens e Primeiras Traduções
  
 As origens e as primeiras traduções da Bíblia em português, desde a Septuaginta até a Vulgata. Veremos como essas traduções influenciaram a disseminação das Escrituras e prepararam o mundo para o advento de Cristo, tornando a Palavra de Deus acessível a todos os povos.
@@ -204,3 +202,7 @@ Uma comissão constituída de eruditos em grego, hebraico, aramaico e português
 - **Edição Integral da Bíblia**: Trabalho de diversos tradutores sob a coordenação de Ludovico Garmus, editado pela Editora Vozes e pelo Círculo do Livro, também com notas.
 
 Espero que esta formatação ajude a tornar o conteúdo mais claro e organizado! Se precisar de mais alguma coisa, estou à disposição.
+
+
+[[66 Apo 22]]
+
