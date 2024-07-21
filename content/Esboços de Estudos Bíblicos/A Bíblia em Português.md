@@ -5,7 +5,8 @@ tags:
   - ABíbliaemPortuguês
 ---
 
- ##A Bíblia em Português: Origens e Primeiras Traduções
+
+## A Bíblia em Português: Origens e Primeiras Traduções
  
 As origens e as primeiras traduções da Bíblia em português, desde a Septuaginta até a Vulgata. Veremos como essas traduções influenciaram a disseminação das Escrituras e prepararam o mundo para o advento de Cristo, tornando a Palavra de Deus acessível a todos os povos.
 
@@ -34,7 +35,7 @@ Em 382 d.C., ***o bispo Dâmaso encarregou Jerônimo de traduzir da Septuaginta 
 
 Jerônimo escreveu ainda 24 comentários bíblicos, um conjunto de biografias de eremitas, duas histórias da igreja primitiva e diversos tratados. Mais tarde, a Bíblia de Jerônimo ficou conhecida por Vulgata [Vulgar], sendo ***hoje utilizada pela Igreja Romana*** como ***a autêntica versão das Escrituras em latim***, apesar de muitos estudiosos a ***considerarem pobre e até apontarem falhas graves.***
 
-### Códices e Manuscritos Bíblicos 
+## Códices e Manuscritos Bíblicos 
 
 A partir do século IV, os livros cristãos passaram a ser escritos em códex, ***palavra derivada de caudex***, ***tabuinha coberta de cera na qual se escrevia com um estilete metálico (stylus)***. Reunidos por um cordão que passava por orifícios feitos no alto dos exemplares, à esquerda, os códices tinham a forma de livro, portanto bem mais práticos para manusear que os antigos rolos. 
 
@@ -46,7 +47,7 @@ Está no Museu Britânico. Outros famosos códices bíblicos são: ***o Vaticano
 
 Existem, ainda, ***vários códices de menor importância***, expostos em museus e bibliotecas de várias partes do mundo. Somente de livros do NT, completos ou em fragmentos, ***conhecem-se hoje 156.***
 
-### Os Rolos do Mar Morto
+## Os Rolos do Mar Morto
 
 Em se tratando de ***manuscritos em rolos***, o mais antigo e importante de todos ***foi encontrado casualmente em 1947*** por um ***Beduíno***, em uma bem escondida gruta nas proximidades de Jericó, junto ao mar Morto. Examinado pelo professor ***Sukenik, da Universidade Hebraica de Jerusalém,*** revelou-se pertencente ao ***século III a.C.*** 
 
@@ -133,8 +134,6 @@ Figueiredo incluiu em sua tradução os chamados livros apócrifos, que o Concí
 #### Estilo e Legado
 
 Na condição de exímio filólogo e latinista, Figueiredo pôde utilizar-se de um estilo sublime e grandiloquente, e seu trabalho resultou em um verdadeiro monumento da prosa portuguesa. No entanto, por não conhecer as línguas originais e se haver baseado tão-somente na Vulgata, sua tradução não suplantou em preferência o texto popular de Almeida.
-
-________
 
 ## A Bíblia no Brasil
 
