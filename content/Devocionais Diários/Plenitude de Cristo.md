@@ -1,5 +1,5 @@
 ---
-title: Plenitude de Cristo
+title: "Mergulhando na Plenitude de Cristo: Um Mergulho na Alegria Celestial"
 "draft O qual é o penhor da nossa herança, para redenção da possessão adquirida, para louvor da sua glória.": true
 tags:
 ---
