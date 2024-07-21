@@ -3,7 +3,6 @@ title: Termos de Uso
 draft: false
 tags:
 ---
-
 ## 1. Termos
 
 Ao acessar ao site [Artigos Divino](https://edygraph.github.io/artigosdivino/), concorda em cumprir estes termos de serviço, todas as leis e regulamentos aplicáveis ​​e concorda que é responsável pelo cumprimento de todas as leis locais aplicáveis. Se você não concordar com algum desses termos, está proibido de usar ou acessar este site. Os materiais contidos neste site são protegidos pelas leis de direitos autorais e marcas comerciais aplicáveis.
@@ -18,7 +17,7 @@ Ao acessar ao site [Artigos Divino](https://edygraph.github.io/artigosdivino/),
 4. remover quaisquer direitos autorais ou outras notações de propriedade dos materiais; ou 
 5. transferir os materiais para outra pessoa ou 'espelhe' os materiais em qualquer outro servidor.
 
-Esta licença será automaticamente rescindida se você violar alguma dessas restrições e poderá ser rescindida por Artigos Divino a qualquer momento. Ao encerrar a visualização desses materiais ou após o término desta licença, você deve apagar todos os materiais baixados em sua posse, seja em formato eletrónico ou impresso.
+Esta licença será automaticamente rescindida se você violar alguma dessas restrições e poderá ser rescindida por Artigos Divino a qualquer momento. Ao encerrar a visualização desses materiais ou após o término desta licença, você deve apagar todos os materiais baixados em sua posse, seja em formato eletrônico ou impresso.
 
 ## 3. Isenção de responsabilidade
 
@@ -27,7 +26,7 @@ Esta licença será automaticamente rescindida se você violar alguma dessas res
 
 ## 4. Limitações
 
-Em nenhum caso o Artigos Divino ou seus fornecedores serão responsáveis ​​por quaisquer danos (incluindo, sem limitação, danos por perda de dados ou lucro ou devido a interrupção dos negócios) decorrentes do uso ou da incapacidade de usar os materiais em Artigos Divino, mesmo que Artigos Divino ou um representante autorizado da Artigos Divino tenha sido notificado oralmente ou por escrito da possibilidade de tais danos. Como algumas jurisdições não permitem limitações em garantias implícitas, ou limitações de responsabilidade por danos conseqüentes ou incidentais, essas limitações podem não se aplicar a você.
+Em nenhum caso o Artigos Divino ou seus fornecedores serão responsáveis ​​por quaisquer danos (incluindo, sem limitação, danos por perda de dados ou lucro ou devido a interrupção dos negócios) decorrentes do uso ou da incapacidade de usar os materiais em Artigos Divino, mesmo que Artigos Divino ou um representante autorizado da Artigos Divino tenha sido notificado oralmente ou por escrito da possibilidade de tais danos. Como algumas jurisdições não permitem limitações em garantias implícitas, ou limitações de responsabilidade por danos consequentes ou incidentais, essas limitações podem não se aplicar a você.
 
 ## 5. Precisão dos materiais
 
@@ -38,7 +37,6 @@ Os materiais exibidos no site da Artigos Divino podem incluir erros técnicos, t
 O Artigos Divino não analisou todos os sites vinculados ao seu site e não é responsável pelo conteúdo de nenhum site vinculado. A inclusão de qualquer link não implica endosso por Artigos Divino do site. O uso de qualquer site vinculado é por conta e risco do usuário.
 
   
-
 ### Modificações
 
 O Artigos Divino pode revisar estes termos de serviço do site a qualquer momento, sem aviso prévio. Ao usar este site, você concorda em ficar vinculado à versão atual desses termos de serviço.
