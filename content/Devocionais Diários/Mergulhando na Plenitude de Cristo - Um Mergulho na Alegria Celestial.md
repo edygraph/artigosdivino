@@ -1,5 +1,5 @@
 ---
-title: "Mergulhando na Plenitude de Cristo: Um Mergulho na Alegria Celestial"
+title: Plenitude de Cristo
 "draft O qual é o penhor da nossa herança, para redenção da possessão adquirida, para louvor da sua glória.": true
 tags:
 ---
@@ -17,4 +17,4 @@ Em breve, as provações e angústias que nos afligem serão extintas, e nossos 
 
  ### Efésios 1:14: Um Portal para a Realidade Celestial
 
-Este trecho de [Efésios 1:14]() nos convida a antecipar o céu, a cultivar em nossos corações a esperança vibrante da eternidade. É um convite para mergulharmos na plenitude de Cristo, nos alimentando da sua graça e amor, e nos preparando para a glória celestial que nos aguarda. Que este texto seja um farol em nossa jornada terrena, guiando-nos em direção à alegria indescritível que nos espera no lar eterno.
+Este trecho de  Efésios 1:14 nos convida a antecipar o céu, a cultivar em nossos corações a esperança vibrante da eternidade. É um convite para mergulharmos na plenitude de Cristo, nos alimentando da sua graça e amor, e nos preparando para a glória celestial que nos aguarda. Que este texto seja um farol em nossa jornada terrena, guiando-nos em direção à alegria indescritível que nos espera no lar eterno.
