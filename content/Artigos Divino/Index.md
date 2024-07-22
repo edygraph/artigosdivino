@@ -7,3 +7,6 @@ longform:
   scenes: []
   ignoredFiles: []
 ---
+jjjjjjkkklkççkçkç
+
+[[04 Núm 7]]
