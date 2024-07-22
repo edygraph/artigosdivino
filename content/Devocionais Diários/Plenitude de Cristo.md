@@ -23,9 +23,6 @@ Em breve, as provações e angústias que nos afligem serão extintas, e nossos 
 
 
 
-[[66 Apo 22]]
-
-
 
 
 
