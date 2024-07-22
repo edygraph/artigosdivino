@@ -1,8 +1,11 @@
 ---
-title: "Mergulhando na Plenitude de Cristo: Um Mergulho na Alegria Celestial"
+title: Plenitude de Cristo
 "draft O qual é o penhor da nossa herança, para redenção da possessão adquirida, para louvor da sua glória.": true
 tags:
 ---
+
+ ## Mergulhando na Plenitude de Cristo: Um Mergulho na Alegria Celestial
+ 
  ### A Antecipação do Céu: Um Banquete de Regozijo e Consolação
 
 Ah, que banquete de iluminação, júbilo e consolação se descortina para aquele que se nutre exclusivamente de Jesus! Nesta jornada terrena, a percepção da preciosidade de Cristo, embora imperfeita, nos impulsiona a ansiar por mais. Como um apetite aguçado por um sabor inigualável, desejamos ardentemente a plenitude da sua glória.
@@ -20,7 +23,7 @@ Em breve, as provações e angústias que nos afligem serão extintas, e nossos 
 
 
 
-
+[[66 Apo 22]]
 
 
 
